@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BaobaoService"
+  id="myeclipse.1452683616076"
+  context-root="/BaobaoService"
+  j2ee-spec="5.0"
+  archive="BaobaoService.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
